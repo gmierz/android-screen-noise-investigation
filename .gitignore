@@ -1,3 +1,9 @@
+## Specific to repo
+testing/
+preproced/
+
+## Not specific to repo
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
